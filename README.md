@@ -35,7 +35,7 @@ quotes/
 #### Запуск
 
 ```bash
-git clone https://github.com/yourname/quotes.git
+git clone https://github.com/EmmanuelEsperanto/quotes
 cd quotes
 go mod tidy
 go run cmd/apiserver/main.go

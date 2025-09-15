@@ -88,13 +88,13 @@ curl -X POST http://localhost:8080/quotes      -H "Content-Type: application/jso
 curl http://localhost:8080/quotes
 ```
 
-### Получить случайную
+### Получить случайную цитату
 
 ```bash
 curl http://localhost:8080/quotes/random
 ```
 
-### Получить по автору
+### Получить цитату по автору
 
 ```bash
 curl http://localhost:8080/quotes?author=NAME
